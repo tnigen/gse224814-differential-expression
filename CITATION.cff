@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite this software and the GSE224814 source data."
+type: software
+title: "GSE224814 Rat Trigeminal Ganglion Differential-Expression Analysis"
+authors:
+  - family-names: "Teimourpour"
+    given-names: "Negin"
+    orcid: "https://orcid.org/0009-0009-8118-6436"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/tnigen/gse224814-differential-expression"
+url: "https://github.com/tnigen/gse224814-differential-expression"
